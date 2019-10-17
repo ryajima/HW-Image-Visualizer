@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Handwriting Image Displayer</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML&locale=ja"></script> -->
+</head>
+<body>
+    <p>JSONファイルを選択してください。</p>
+    <input type="file" id="file" name="file" />
+    <hr />
+    <div id="qid">QID: </div>
+    <div id="result">Result: </div>
+    <div>Handwriting Image
+    <button type="button" id="reStrokeBtn">ストローク再現</button>
+    </div>
+    <canvas id="canvas" width="800px" height="375px"></canvas>
+    <div>JSON source</div>
+    <div id ="jsonSrc"></div>
+</body>
+
+<script type="text/javascript" src="displayer.js"></script>
+</html>

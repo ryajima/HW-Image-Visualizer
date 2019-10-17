@@ -1,0 +1,15 @@
+body{
+    background: #eeeeee
+}
+
+#canvas {
+    background: #ffffff;
+    border: darkgray 1px solid;
+}
+
+#jsonSrc {
+    height: 12em;
+    overflow-y: scroll;
+    border: darkgray 1px solid;
+    background-color: white;
+}
