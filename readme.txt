@@ -1,14 +1,14 @@
-[ƒ\[ƒXƒtƒ@ƒCƒ‹]
-Eindex.html
-Edisplayer.js
-Estyle.css
+ï»¿[ã‚½ãƒ¼ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«]
+ãƒ»index.html
+ãƒ»displayer.js
+ãƒ»style.css
 
 
-[‘€ì•û–@]
-uƒtƒ@ƒCƒ‹‚ð‘I‘ðvƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚Äƒ[ƒJƒ‹‚É•Û‘¶‚µ‚½JSON‚ð‘I‘ð‚µ‚Ä‚­‚¾‚³‚¢D
+[æ“ä½œæ–¹æ³•]
+ã€Œãƒ•ã‚¡ã‚¤ãƒ«ã‚’é¸æŠžã€ãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ã¦ãƒ­ãƒ¼ã‚«ãƒ«ã«ä¿å­˜ã—ãŸJSONã‚’é¸æŠžã—ã¦ãã ã•ã„ï¼Ž
 
 
-[JSONƒtƒH[ƒ}ƒbƒg]
+[JSONãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆ]
 (math)
 {"qid": "qid",
  "stroke": [{"type": "stroke", "x": [], "y": [] },
